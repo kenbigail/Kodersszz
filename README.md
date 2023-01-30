@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kodersszz
-- 👀 I’m interested in Programming IoT
-- 🌱 I’m currently learning Arduino IDE
-- 💞️ I’m looking to collaborate on a Cool team!
+- 👋 Hi, I’m Keenan Abigail
+- 👀 I’m interested in Flutter and Kotlin
+- 🌱 I’m currently learning Kotlin Programming Language
+- 💞️ I’m looking to have a Connection with Developers!
 - 📫 Feel Free to Collab with me!
 
 <!---
